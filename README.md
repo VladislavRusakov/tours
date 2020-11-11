@@ -1,1 +1,1 @@
-"# tours" 
+Django student project
